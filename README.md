@@ -20,3 +20,5 @@ Note: The ai_training.txt is the info about each generation the AI has trained f
 Note(1): The neat-checkpoint-24 is just a python object saving the trained AI, in this case an AI that has been trained for 24 generations.
 
 Note(2): The references and resources used for learning how to make this is in the NEAT_AI.py file
+
+A Project by Achintya Kamath / Redzwinger (15/09/2022)
