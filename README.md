@@ -12,4 +12,5 @@ To play the game just set up the project as described above and then just run th
 DISCLAIMER: The AI has been trained for 24/25 generations and is hence very good :')
 
 Note: The ai_training.txt is the info about each generation the AI has trained for. Not nescessary for anything.
+
 Note(1): The neat-checkpoint-24 is just a python object saving the trained AI, in this case an AI that has been trained for 24 generations.
