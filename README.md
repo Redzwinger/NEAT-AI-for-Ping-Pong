@@ -4,6 +4,9 @@ This is a less trained verison of the AI with less fitness threshold 300 as comp
 
 Bonus Features: Doesn't hurt your ego :)
 
+![the_dumber_ai_that_still_beats_me](https://user-images.githubusercontent.com/102427149/190482008-978533f9-e904-4ec3-a0a1-55839b4e2542.gif)
+
+As you can see, I'm still bad at pong :) But now a good player can actually play against the AI without feeling inadequate :D
 
 |
 
