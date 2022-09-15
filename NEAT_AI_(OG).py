@@ -29,7 +29,7 @@ From this training spree we select the "best" one and set it as the AI to contro
 For purposes of this program:
 The user controls the left paddle with "W" for "Up" and "S" for "Down"
 
-Currently the AI has ben trained for 25/26 generations, i.e, with 51/50 other genomes, making it an almost perfect AI
+Currently the AI has ben trained for a relatively high threshold (500), making it an almost perfect AI
 '''
 
 import pygame
