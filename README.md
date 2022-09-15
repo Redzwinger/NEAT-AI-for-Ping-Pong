@@ -23,6 +23,8 @@ Note(2): The references and resources used for learning how to make this is in t
 
 ```
 A Project by Achintya Kamath / Redzwinger (15/09/2022)
+```
+```
  ____               __                                                          
 /\  _`\            /\ \                      __                                 
 \ \ \L\ \     __   \_\ \  ____    __  __  __/\_\    ___      __      __   _ __  
@@ -31,6 +33,4 @@ A Project by Achintya Kamath / Redzwinger (15/09/2022)
    \ \_\ \_\ \____\ \___,_\/\____\\ \___x___/'\ \_\ \_\ \_\ \____ \ \____\\ \_\ 
     \/_/\/ /\/____/\/__,_ /\/____/ \/__//__/   \/_/\/_/\/_/\/___L\ \/____/ \/_/ 
                                                              /\____/            
-                                                             \_/__/             
-                                                             
-```
+                                                             \_/__/             ```
