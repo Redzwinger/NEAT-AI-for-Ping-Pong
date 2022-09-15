@@ -14,7 +14,7 @@ https://github.com/CodeReclaimers/neat-python - The NEAT resources (config.txt, 
 https://nn.cs.utexas.edu/downloads/papers/stanley.cec02.pdf - The original NEAT papers for understanding the tech
 
 https://youtu.be/2f6TmKm7yx0 - Tutorial
-https://github.com/techwithtim/NEAT-Pong-Python - Original Code
+https://github.com/techwithtim/NEAT-Pong-Python - Original Code (including the ping pong game files)
 '''
 
 '''
