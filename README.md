@@ -21,7 +21,7 @@ Note(1): The neat-checkpoint-24 is just a python object saving the trained AI, i
 
 Note(2): The references and resources used for learning how to make this is in the NEAT_AI.py file
 
-'''
+```
 A Project by Achintya Kamath / Redzwinger (15/09/2022)
  ____               __                                                          
 /\  _`\            /\ \                      __                                 
@@ -33,4 +33,4 @@ A Project by Achintya Kamath / Redzwinger (15/09/2022)
                                                              /\____/            
                                                              \_/__/             
                                                              
-'''
+```
