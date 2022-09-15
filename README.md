@@ -11,7 +11,7 @@ To play the game just set up the project as described above and then just run th
 
 DISCLAIMER: The AI has been trained for 24/25 generations and is hence very good or I am just bad at playing pong :')
 
-
+![the_ai_is too_good](https://user-images.githubusercontent.com/102427149/190380526-0fac8f83-f863-44a3-86a3-6a554f32dfdc.gif)
 
 Left is me obiviously :)
 
