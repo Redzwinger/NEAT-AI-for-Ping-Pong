@@ -179,8 +179,7 @@ def run_neat(config):
     p.add_reporter(neat.Checkpointer(1))
     #saving the progress of the training process of AI after every 1 generation of AI trained
 
-    winner = p.run(training_grind, 50) #can change the number of genomes to set the number of generations
-    #passing the number of genomes to determine the number of generations it will run for
+    winner = p.run(training_grind, 50) #sets the max number of generations
     #The "winner" is the best gene of all of the genomes
 
     #now saving the best neural network/genome using the pickle module which saves a whole python object
