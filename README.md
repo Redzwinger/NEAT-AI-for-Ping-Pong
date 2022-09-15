@@ -9,7 +9,7 @@ You'll need to put the pong folder in your project folder along with everything 
 
 To play the game just set up the project as described above and then just run the NEAT AI.py
 
-DISCLAIMER: The AI has been trained for 24/25 generations and is hence very good :')
+DISCLAIMER: The AI has been trained for 24/25 generations and is hence very good or I am just bad at playing pong :')
 
 Note: The ai_training.txt is the info about each generation the AI has trained for. Not nescessary for anything.
 
