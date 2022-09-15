@@ -1,6 +1,6 @@
 # NEAT-AI-for-Ping-Pong
 
-This is a less trained verison of the AI
+This is a less trained verison of the AI just 15 generations as compared to the original's 25
 
 Bonus Features: Doesn't hurt your ego :)
 
@@ -34,7 +34,7 @@ To play the game just set up the project as described above and then just run th
 
 Note: The ai_training.txt is the info about each generation the AI has trained for. Not nescessary for anything.
 
-Note(1): The neat-checkpoint-24 is just a python object saving the trained AI, in this case an AI that has been trained for 24 generations.
+Note(1): The neat-checkpoint-15 is just a python object saving the trained AI, in this case an AI that has been trained for 15 generations.
 
 Note(2): The references and resources used for learning how to make this is in the NEAT_AI.py file
 
