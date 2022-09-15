@@ -4,13 +4,21 @@ This is a less trained verison of the AI
 
 Bonus Features: Doesn't hurt your ego :)
 
+
 |
+
 |
+
 |
+
 |
+
 |
+
 |
+
 |
+
 
 (Description is the same as the main one)
 
