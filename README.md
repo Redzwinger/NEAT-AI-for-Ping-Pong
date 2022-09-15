@@ -11,7 +11,8 @@ To play the game just set up the project as described above and then just run th
 
 DISCLAIMER: The AI has been trained for 24/25 generations and is hence very good or I am just bad at playing pong :')
 
-https://user-images.githubusercontent.com/102427149/190379647-70196996-b04c-404c-9f1b-24c5c802d8b3.mp4
+
+
 Left is me obiviously :)
 
 Note: The ai_training.txt is the info about each generation the AI has trained for. Not nescessary for anything.
