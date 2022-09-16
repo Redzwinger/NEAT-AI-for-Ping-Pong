@@ -1,6 +1,7 @@
 # NEAT-AI-for-Ping-Pong
 
-This is a less trained verison of the AI with less fitness threshold (300) as compared to the original's (500)
+This is a less trained verison of the AI with less fitness threshold (300) and less generations (15) as compared to the original's 500 and 25.
+Although this time I didn't achive the perfect fitness (did get a perfect AI for the entered configs), it is way better to play against.
 
 Bonus Features: Doesn't hurt your ego :)
 
