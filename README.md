@@ -9,7 +9,7 @@ You'll need to put the pong folder in your project folder along with everything 
 
 To play the game just set up the project as described above and then just run the NEAT AI.py
 
-DISCLAIMER: The AI has been trained for a relatively high fitness threshold (500) and is hence very good or I am just bad at playing pong :')
+DISCLAIMER: The AI has been trained for a relatively high fitness threshold (500), along with a fair amount of generations (25) and is hence very good or I am just bad at playing pong :')
 
 ![the_ai_is too_good](https://user-images.githubusercontent.com/102427149/190380526-0fac8f83-f863-44a3-86a3-6a554f32dfdc.gif)
 
