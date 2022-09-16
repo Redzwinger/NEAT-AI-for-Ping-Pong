@@ -30,7 +30,7 @@ A NeuroEvolution of Augmented Topologies AI made for a basic Ping Pong Game in P
 
 Used a pre-existing python Ping Pong game and added a NEAT Network to it
 
-The NEAT AI.py is the main program file others are dependencies REQUIRED to use the thing.
+The NEAT_AI_the_less_ego_hurting_version.py is the main program file for this one, others are dependencies REQUIRED to use the thing.
 
 You'll need to put the pong folder in your project folder along with everything in it then put the NEAT AI.py and the best.pickle obj in the project folder for the IDE to know that everything in the pong folder is the dependencies.
 
